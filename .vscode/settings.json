@@ -1,5 +1,7 @@
 {
 	"editor.insertSpaces": false,
+	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false,
 	"files.trimTrailingWhitespace": true,
 	"files.exclude": {
 		".git": true,
