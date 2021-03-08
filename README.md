@@ -31,6 +31,7 @@ If you are interested in fixing issues and contributing directly to the code bas
 please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
 
 * [How to build and run from source](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+	* yarn run gulp vscode-linux-x64-build-deb	
 * [The development workflow, including debugging and running tests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
 * [Coding guidelines](https://github.com/microsoft/vscode/wiki/Coding-Guidelines)
 * [Submitting pull requests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests)
